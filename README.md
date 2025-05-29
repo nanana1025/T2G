@@ -65,7 +65,7 @@ All the logs will be saved in `logs/`
 2. `create_dtw.py` is a script to calculate pair-wise DTW distances of a dataset and save them into npy. Some important hyperparameters are as follows.
 *   `--dataset`: what dataset to process
 
-3. `get_subsequence_dtw.py` is a script to calculate pair-wise DTW distances of subsequence of a dataset and save them into npy. Some important hyperparameters are as follows.
+3. `get_subsequence_dtw.py` is a script to calculate pair-wise DTW distances for subsequence of a dataset and save them into npy. Some important hyperparameters are as follows.
 *   `--dataset`: what dataset to process
 *   `--w`: window size
 *   `--j`: shift size of j-window
