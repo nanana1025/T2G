@@ -1,0 +1,6 @@
+--> Epoch 20: loss 0.5835; accuracy: 0.5000; avg_accuracy: 0.5000; best accuracy: 0.5000
+--> Epoch 40: loss 0.4418; accuracy: 0.5000; avg_accuracy: 0.5000; best accuracy: 0.5000
+--> Epoch 60: loss 0.3209; accuracy: 0.8750; avg_accuracy: 0.5132; best accuracy: 0.8750
+--> Epoch 80: loss 0.2321; accuracy: 1.0000; avg_accuracy: 0.6297; best accuracy: 1.0000
+--> Epoch 100: loss 0.1762; accuracy: 1.0000; avg_accuracy: 0.7038; best accuracy: 1.0000
+>>>>> Coffee Test Accuracy: 1.000000
