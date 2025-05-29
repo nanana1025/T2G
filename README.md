@@ -26,7 +26,7 @@ First, prepare the dataset with (the generated dataset is already available in t
 python3.6 create_dataset.py
 ```
 
-Second, install the python wrapper of UCR DTW library with
+Second, install the python wrapper of UCR DTW library (the DTW library is already available in this repository)
 ```
 git clone https://github.com/daochenzha/pydtw.git
 cd pydtw
@@ -54,7 +54,7 @@ python3.8 train_simtsc.py
 python3.8 train_simtsc.py
 
 All the logs will be saved in `logs/`
-
+```
 
 ## Descriptions of the Files
 
