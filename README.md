@@ -7,7 +7,7 @@ This project is licensed under the MIT License.
 It also includes code from Daochen Zha's implementation (MIT License, 2022).  
 See the LICENSE file for details.
 
-<img width="800" src="overview.png" alt="overview" />
+<img width="500" src="overview.png" alt="overview" />
 
 ## Installation
 Please use both Python 3.6. and Python 3.8
