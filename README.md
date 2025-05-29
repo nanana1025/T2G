@@ -1,13 +1,13 @@
 # T2G
 We propose Time2Graph, a novel graph-based model for time series classification(TSC). Time2Graph maximizes both embedding fidelity and classification performance by constructing a nested graph composed of a macro graph, which captures the global relationships among time series, and micro graphs, each of which reflects the local characteristics within each individual time series.
 
+<img width="500" src="overview.png" alt="overview" />
+
 ## License
 
 This project is licensed under the MIT License.  
 It also includes code from Daochen Zha's implementation (MIT License, 2022).  
 See the LICENSE file for details.
-
-<img width="500" src="overview.png" alt="overview" />
 
 ## Installation
 Please use both Python 3.6. and Python 3.8
